@@ -91,25 +91,6 @@ function Skills() {
                 </div>
               </SwiperSlide>
               
-              <SwiperSlide>
-                <div
-                  className="skill--box"
-                  style={{ backgroundColor: "rgb(33, 33, 33)" }}
-                >
-                  <img src="/assets/images/TailwindCSS.png" alt="Tailwind" />
-                  <h3 style={{ color: "rgb(234, 234, 234)" }}>Tailwind</h3>
-                </div>
-              </SwiperSlide>
-              
-              <SwiperSlide>
-                <div
-                  className="skill--box"
-                  style={{ backgroundColor: "rgb(33, 33, 33)" }}
-                >
-                  <img src="/assets/images/TailwindCSS.png" alt="Tailwind" />
-                  <h3 style={{ color: "rgb(234, 234, 234)" }}>Tailwind</h3>
-                </div>
-              </SwiperSlide>
               </div>
             </Swiper>
           </div>

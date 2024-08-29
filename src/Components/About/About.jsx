@@ -9,7 +9,7 @@ function About() {
       <div class="about pt-5 ">
         <div class="about-text col-md-6 col-sm-12 ">
           <p class="pb-5">
-            Hello, I'm Hasnain! 👋 I am a dedicated web developer with 6 months
+            Hello, I'm Hasnain! 👋 I am a dedicated web developer with 01 year
             of hands-on experience, and my journey in this field continues to
             grow. My expertise lies in HTML, CSS, JavaScript, Tailwind CSS, and
             React. I am driven by a passion for creating compelling and
