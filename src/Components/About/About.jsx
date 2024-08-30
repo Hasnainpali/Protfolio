@@ -3,8 +3,8 @@ import React from "react";
 function About() {
   return (
     <div>
-      <h1 class="text-dark text-center pt-5" id="about">
-        About Me
+      <h1 class="text-white text-center pt-5" id="about">
+        About <span style={{color:"#ffbd39"}}>  Me</span>
       </h1>
       <div class="about pt-5 ">
         <div class="about-text col-md-6 col-sm-12 ">

@@ -8,7 +8,7 @@ import 'swiper/css/pagination';
 function Skills() {
   return (
     <div>
-      <h1 className="text-dark text-center pt-5" id="skill">
+      <h1 className="text-white text-center pt-5" id="skill">
         Skill
       </h1>
       <div className="container-fluid py-5">

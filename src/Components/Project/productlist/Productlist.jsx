@@ -5,8 +5,8 @@ const Productlist=() => {
     return(
         <div className="p1">
             <div className="p1-text" id="project">
-                <h1 className="p1-title">Projects. It's Hasnain</h1>
-                    <p className="p1-desc">
+                <h1 className="p1-title text-white">Projects. <span style={{color:"#ffbd39"}}> It's Hasnain</span> </h1>
+                    <p className="p1-desc text-white">
                         This is a creative portfolio that your work has been waiting for.
                         Beautiful websites, stunning portfolio styles & a whole lot more awaits
                         inside.

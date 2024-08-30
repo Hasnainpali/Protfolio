@@ -28,7 +28,7 @@ function Navbar() {
   }, []); // Empty dependency array means this runs once on mount
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light">
+    <nav className="navbar navbar-expand-lg navbar-dark">
       <div className="container-fluid pt-2">
         <div>
           <h1 className="navbar-brand fs-2">Portfolio</h1>

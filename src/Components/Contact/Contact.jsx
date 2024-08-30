@@ -62,8 +62,8 @@ function Contact() {
 
   return (
     <div>
-      <h1 className="text-dark text-center pt-5" id="contact">
-        Contact
+      <h1 className="text-white text-center pt-5" id="contact">
+        Contact <span style={{color:"#ffbd39"}}> Me </span>
       </h1>
       <section className="contact_us">
         <div className="contact_inner pt-5">
@@ -130,7 +130,7 @@ function Contact() {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://www.linkedin.com/in/hasnain-frontend-developer/">
                     <i className="bi bi-linkedin icon"></i>
                   </a>
                 </li>

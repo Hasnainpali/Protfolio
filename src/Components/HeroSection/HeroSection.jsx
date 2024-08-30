@@ -53,12 +53,12 @@ function HeroSection() {
   }, []);
 
   return (
-    <div className="d-sm-flex align-items-center h-100 p-5 row" id="Home">
+    <div className="d-sm-flex align-items-center w-100 h-100 p-5 row" id="Home">
       <div className="col-md-6 col-sm-12 mb-4 mb-sm-0">
         <span className="text-uppercase" style={{ color: "#ffbd39" }}>
           Hello!
         </span>
-        <h1 className="display-5 my-3 font-weight-bold text-dark">
+        <h1 className="display-5 my-3 font-weight-bold text-white">
           I'm{" "}
           <span
             ref={txtElementRef}
@@ -70,7 +70,7 @@ function HeroSection() {
         </h1>
         <h2 className="mb-4">
           {" "}
-          <span style={{ color: "#000" }}>As a Front-End Developer</span>
+          <span style={{ color: "white" }}>As <span style={{color:"#ffbd39"}}> a </span>Front-End <span style={{color:"#ffbd39"}}>Developer</span></span>
         </h2>
         <div className="d-flex justify-content-center align-items-center justify-content-md-start" style={{gap:"10px"}}>
           <a
@@ -88,8 +88,8 @@ function HeroSection() {
             style={{
               backgroundColor: "transparent",
               borderRadius: "30px",
-              color: "#000",
-              border: "1px solid #000",
+              color: "white",
+              border: "1px solid #fff",
             }}
           >
             Hire me

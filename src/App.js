@@ -9,7 +9,7 @@ import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
-    <div className="" >
+    <div className="" style={{backgroundColor:"#000"}} >
         <Navbar/>
         <HeroSection/>
         <About/>
