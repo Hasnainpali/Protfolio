@@ -12,7 +12,7 @@ export const products = [
     {
       id: 3,
       img: "/assets/images/firstpracticewebsite..png",
-      link: "https://firstpracticewebsite.netlify.app",
+      link: "https://firstwebsite-psi.vercel.app",
     },
     // {
     //   id: 4,
